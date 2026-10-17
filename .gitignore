@@ -1,0 +1,42 @@
+# --- dependencias y entornos (se generan con instalar.sh)
+node_modules/
+_motor/node_modules/
+_motor/bin/
+_motor/.venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- secretos
+.env
+
+# --- cachés y archivos pesados (el motor los guarda en ~/Movies/editor-reels-cache)
+cache/
+_motor/cache/
+*.bak*
+
+# --- tus videos y trabajo (nunca van al repo)
+01-crudos/*
+!01-crudos/.gitkeep
+!01-crudos/README.md
+02-proyectos/*
+!02-proyectos/.gitkeep
+!02-proyectos/README.md
+03-exportados/*
+!03-exportados/.gitkeep
+!03-exportados/README.md
+Entregados/*
+!Entregados/.gitkeep
+!Entregados/README.md
+
+# --- recursos descargados por cada quien (licencias de terceros)
+04-recursos/musica/*
+!04-recursos/musica/.gitkeep
+!04-recursos/musica/README.md
+04-recursos/sfx/pixabay/*
+!04-recursos/sfx/pixabay/.gitkeep
+04-recursos/broll/pexels/*
+!04-recursos/broll/pexels/.gitkeep
+04-recursos/lut/*.cube

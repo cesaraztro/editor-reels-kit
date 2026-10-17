@@ -1,0 +1,3 @@
+# Entorno de Python del motor (mirada.py y lineas_fijas.py). Lo crea instalar.sh con uv: _motor/.venv
+mediapipe==1.1.0
+numpy

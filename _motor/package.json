@@ -1,0 +1,23 @@
+{
+  "name": "editor-reels-kit-motor",
+  "private": true,
+  "dependencies": {
+    "@fontsource/cinzel": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "@remotion/bundler": "^4.0.525",
+    "@remotion/cli": "4.0.525",
+    "@remotion/renderer": "^4.0.525",
+    "lucide-react": "^1.39.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.525",
+    "simple-icons": "^16.31.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}

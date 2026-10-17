@@ -1,0 +1,24 @@
+{
+  "_ayuda": "Edita este archivo con TU marca. Todo lo que dibuja el motor (título, firma, cierre, subtítulos, logo) sale de aquí. Los colores son hexadecimales #RRGGBB.",
+  "nombre": "Tu Nombre",
+  "rol": "Fundador · TuMarca",
+  "empresa": "TuMarca",
+  "mostrar_firma": true,
+  "eyebrow": "TuMarca",
+  "cta_texto": "Comenta la palabra",
+  "colores": {
+    "fondo": "#14142B",
+    "papel": "#F5F5F7",
+    "acento": "#7DD3FC",
+    "oro": "#FF8A3D"
+  },
+  "logo": "logo/tu-logo.svg",
+  "fuentes": {
+    "titulo": "Cinzel",
+    "cuerpo": "Poppins",
+    "subtitulos": "Poppins SemiBold"
+  },
+  "idioma": "es",
+  "vocabulario": "automatización, inteligencia artificial, negocio",
+  "correcciones": {}
+}

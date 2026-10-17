@@ -1,0 +1,24 @@
+{
+  "_ayuda": "Ejemplo real: la marca de AztroTech (César Holguín). Cópialo a la raíz como marca.json para ver cómo queda, y copia ejemplos/logo-aztrotech/logo.svg a logo/. Es solo un ejemplo: el logo y el nombre son de AztroTech.",
+  "nombre": "César Holguín",
+  "rol": "Fundador · AztroTech",
+  "empresa": "AztroTech",
+  "mostrar_firma": true,
+  "eyebrow": "AztroTech",
+  "cta_texto": "Comenta la palabra",
+  "colores": {
+    "fondo": "#0B1C33",
+    "papel": "#F4F3EE",
+    "acento": "#A3C7FF",
+    "oro": "#D9B26A"
+  },
+  "logo": "ejemplos/logo-aztrotech/logo.svg",
+  "fuentes": {
+    "titulo": "Cinzel",
+    "cuerpo": "Poppins",
+    "subtitulos": "Poppins SemiBold"
+  },
+  "idioma": "es",
+  "vocabulario": "automatización, inteligencia artificial, negocio",
+  "correcciones": {"Astro Tech": "AztroTech"}
+}

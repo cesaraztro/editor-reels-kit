@@ -1,0 +1,81 @@
+{
+  "color": "lutyuv=y='clip(val+0.13*(val-128)*(1-abs(2*val/255-1))-3,16,235)':u='clip(128+(val-128)*1.05-1.5,16,240)':v='clip(128+(val-128)*1.05+2,16,240)'",
+  "zoom": [
+    1.0,
+    1.18
+  ],
+  "subtitulos": {
+    "fuente": "Poppins SemiBold",
+    "tam": 82,
+    "y": 1500,
+    "max_palabras": 4,
+    "max_chars": 24,
+    "caja_alfa": 34,
+    "relleno": 16
+  },
+  "musica_volumen": 0.22,
+  "sfx_volumen": 0.35,
+  "broll_por_video": 3,
+  "insertos_max": 12,
+  "inserto_min": 1.5,
+  "modo": "editor",
+  "zoom_golpe": 1.32,
+  "frase_max": 0,
+  "tapar_con_escenas": false,
+  "gap_corte": 0.3,
+  "pre": 0.04,
+  "post": 0.14,
+  "broll_fundido": 0.04,
+  "look": "premium",
+  "subtitulos_editor": {
+    "fuente": "Poppins ExtraBold",
+    "fuente_chica": "Poppins SemiBold",
+    "tam": 104,
+    "tam_chica": 78,
+    "tam_clave": 185,
+    "tam_titulo": 140,
+    "y": 1180,
+    "max_palabras": 3,
+    "max_chars": 16
+  },
+  "silencio_min": 0.14,
+  "silencio_pad": 0.04,
+  "velocidad": 1.12,
+  "lut": "premium.cube",
+  "vineta": 0.42,
+  "grano": 4,
+  "camara": {
+    "empuje": 0.045,
+    "punch": 0.09,
+    "punch_max": 12,
+    "punch_sep": 1.8,
+    "plano_abierto": 0.085,
+    "cara_objetivo": 0.115,
+    "reencuadre_max": 1.8
+  },
+  "profundidad": {
+    "activo": true,
+    "oscurecer": 0.08,
+    "desenfoque": 3,
+    "desat": 0.1,
+    "pluma": 2,
+    "objetos": false
+  },
+  "ajuste_piel": "huesaturation=saturation=-0.3:colors=m",
+  "heroe": {
+    "tapado": 0.06,
+    "dur": 1.8,
+    "dur_min": 1.5,
+    "max": 2,
+    "ys": [
+      300,
+      360,
+      420,
+      480,
+      560,
+      680,
+      800
+    ]
+  },
+  "lineas_guia": []
+}
