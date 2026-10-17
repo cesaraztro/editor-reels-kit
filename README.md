@@ -39,7 +39,7 @@ Convierte un video tuyo hablando a cámara en un reel vertical (1080×1920) con 
 ## Instalación
 
 ```bash
-git clone <la dirección del repositorio privado> editor-reels-kit   # o descomprime el zip
+git clone https://github.com/cesaraztro/editor-reels-kit.git editor-reels-kit   # o descomprime el zip
 cd editor-reels-kit
 ./instalar.sh
 ```
