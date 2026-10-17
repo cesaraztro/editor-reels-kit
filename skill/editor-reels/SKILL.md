@@ -7,7 +7,7 @@ description: Edita videos hablando a cámara y los convierte en reels verticales
 
 El motor hace el trabajo pesado (ffmpeg en bloques paralelos, Remotion solo para gráficos con transparencia, Whisper y Apple Vision locales). Tú haces lo editorial: elegir tomas, escribir un `edicion.json`, conseguir la música, revisar y entregar.
 
-`R="__RUTA_KIT__"` (la carpeta del kit: la que contiene `marca.json`, `_motor/` y `instalar.sh`). Si arriba aún dice `__RUTA_KIT__`, usa la carpeta donde esté `marca.json` o pregúntale al usuario. Usa siempre comillas en las rutas.
+`R="__RUTA_KIT__"` (la carpeta del kit: la que contiene `marca.json`, `_motor/` y `instalar.sh`). Si esa ruta no existe (el kit se movió), usa la carpeta donde esté `marca.json`, o pregúntale al usuario y vuelve a correr `./instalar.sh`. Usa siempre comillas en las rutas.
 - Motor: `"$R/_motor/reel.py"`, estilo en `"$R/_motor/estilo.json"`, revisión en `"$R/_motor/qa.py"`.
 - Marca (nombre, firma, colores, logo, fuentes, CTA, idioma): `"$R/marca.json"`. **Todo lo visual de la marca sale de ahí**; no toques el código para cambiar colores.
 - Carpetas: `01-crudos/` (entrada), `02-proyectos/<fecha>_<slug>/` (trabajo), `03-exportados/` (render) y `Entregados/<fecha>_<tema>/` (lo que ve el usuario).
