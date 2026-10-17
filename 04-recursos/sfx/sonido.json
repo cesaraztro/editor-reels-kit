@@ -1,0 +1,15 @@
+{
+  "_nota": "Evento del reel -> efecto de 04-recursos/sfx/pixabay (licencia Pixabay: uso comercial, sin atribución). db = ganancia; antes = segundos de anticipación.",
+  "separacion_min": 0.35,
+  "eventos": {
+    "titulo":  {"archivo": "pixabay/whoosh-cinematic.mp3", "db": -13, "antes": 0.35},
+    "firma":   {"archivo": "pixabay/click-soft.mp3",       "db": -16, "antes": 0.0},
+    "broll":   {"archivo": "pixabay/whoosh-short.mp3",     "db": -11, "antes": 0.12},
+    "emoji":   {"archivo": "pixabay/pop.mp3",              "db": -9,  "antes": 0.02},
+    "logo":    {"archivo": "pixabay/sparkle.mp3",          "db": -14, "antes": 0.05},
+    "tarjeta": {"archivo": "pixabay/click.mp3",            "db": -12, "antes": 0.0},
+    "heroe":   {"archivo": "pixabay/impact-bass-1.mp3",    "db": -11, "antes": 0.0, "prioridad": 2},
+    "golpe":   {"archivo": "pixabay/impact-bass-2.mp3",    "db": -10, "antes": 0.0, "prioridad": 2},
+    "cierre":  {"archivo": "pixabay/whoosh-cinematic.mp3", "db": -12, "antes": 0.3, "prioridad": 1}
+  }
+}
