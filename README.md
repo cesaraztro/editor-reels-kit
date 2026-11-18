@@ -2,7 +2,7 @@
 
 Convierte un video tuyo hablando a cámara en un reel vertical (1080×1920) con acabado de editor profesional, **todo en tu Mac y sin pagar suscripciones**. Lo manejas desde Claude Code: le dices "edita este video" y él elige las tomas, escribe la edición y entrega el reel ya revisado.
 
-> Kit privado para miembros de la comunidad de Skool de César Holguín. Lee la [LICENSE](LICENSE) antes de usarlo.
+> Código abierto bajo licencia [MIT](LICENSE). Hecho por César Holguín · AztroTech. Para episodios largos de YouTube y podcasts, mira el [Editor de Video Largo](https://github.com/cesaraztro/editor-video-largo-kit).
 
 ## Qué hace
 
